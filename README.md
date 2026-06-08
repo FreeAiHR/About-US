@@ -1,4 +1,4 @@
-# About-US
+# About-US  (欢迎多多star，fork，提出需求或Bug)
 
 随着 Ai的快速发展，AI 必将嵌入到企业的各个业务流程中，原有的一系列软件：客服系统、HR 人力资源系统、财务系统、CRM、OA系统、供应链系统等等，均需要与 AI 进行有效地结合。
 With the rapid development of AI, it will inevitably be embedded into various business processes of enterprises. Existing software systems such as customer service, HR, finance, CRM, OA, and supply chain will all need to be effectively integrated with AI.
